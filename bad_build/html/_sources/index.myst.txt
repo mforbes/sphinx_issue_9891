@@ -1,0 +1,9 @@
+# Demonstration of [Sphinx Issue 9891](https://github.com/sphinx-doc/sphinx/issues/9891)
+
+```{toctree}
+---
+maxdepth: 2
+caption: "Contents"
+---
+api
+```

@@ -1,4 +1,4 @@
 envs/
-Docs/_build
-Docs/_generated
+_build
+_generated
 __pycache__

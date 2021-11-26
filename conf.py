@@ -3,7 +3,7 @@
 import os
 import sys
 
-sys.path.insert(0, os.path.abspath(".."))
+sys.path.insert(0, os.path.abspath("."))
 
 project = "Sphinx Issue"
 copyright = "2021, Michael McNeil Forbes"
