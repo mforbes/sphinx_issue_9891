@@ -1,0 +1,4 @@
+envs/
+Docs/_build
+Docs/_generated
+__pycache__

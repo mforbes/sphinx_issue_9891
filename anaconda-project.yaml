@@ -1,0 +1,14 @@
+name: sphinx_issue_9891
+description: 'Demonstrate [Sphinx issue 9891](https://github.com/sphinx-doc/sphinx/issues/9891)'
+
+packages:
+  - python=3.9
+  - sphinx
+  - conda-forge::myst-parser
+channels:
+  - defaults
+
+platforms:
+  - linux-64
+  - osx-64
+  - win-64
